@@ -2,8 +2,6 @@
 ------
 ### Brazilian E-Commerce Public Dataset by Olist
 
-![Olist Schema](![image](![image](https://github.com/user-attachments/assets/f231160a-e58b-4576-a43d-aef774c394af)
-
 
  #### Welcome!
 
@@ -14,5 +12,4 @@
 * Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers.
 
 * We also released a geolocation dataset that relates Brazilian zip codes to lat/lng coordinates
-* ![Olist Schema](C:\Users\garal\OneDrive\Documents\Desktop\Olist_ecommerce_SQL_project\olist_schema.pgerd)
 
