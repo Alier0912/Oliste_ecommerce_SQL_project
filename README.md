@@ -3,7 +3,6 @@
 ### Brazilian E-Commerce Public Dataset by Olist
 
 ![Olist Schema](![image](https://github.com/user-attachments/assets/1e603b8a-a636-4d22-94c3-51e4b9a5bd1d)
-)
 
  #### Welcome!
 
